@@ -8,3 +8,4 @@ export type { IJsonSchemaRef } from "./Interfaces/IJsonSchemaRef.ts";
 export type { IJsonSchemaString } from "./Interfaces/IJsonSchemaString.ts";
 
 export type { JsonSchemaType } from "./Types/JsonSchemaType.ts";
+export type { UriReference } from "./Types/UriReference.ts";
